@@ -1,0 +1,123 @@
+body {
+  font-family: Georgia, serif;
+/*  background-image: url('resources/images/wood_floor.jpg');
+  background-position: center;
+  background-size: cover;
+  font-weight: 900;*/
+
+
+
+}
+
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 125px;
+  /*background-color: #002b80;*/
+  color: blue;
+  font-weight: 900;
+  justify-content: center;
+  text-align: center;
+  background-color: #c2c2d6;
+/*  background-image: url('resources/images/brick_background.jpg');
+  background-position: center;
+  background-size: 200px;*/
+
+
+}
+
+div {
+color: blue;
+}
+
+h1 {
+  padding-bottom: 10px;
+  font-size: 40px;
+  margin-top: 0;
+
+}
+
+h2 {
+  text-align: center;
+  border: 1px solid black;
+  background-color: #cd6600;
+}
+
+
+
+.buttons {
+  /*margin: 0px 80px;*/
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #cd6600;
+}
+
+#home {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+#primary {
+  display: flex;
+  flex-direction: row;
+  background-color: #c2c2d6;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 3px;
+}
+
+.title_image {
+  width: 50%;
+  height: 425px;
+}
+
+#project_container {
+  margin-top: 40px;
+}
+
+#projects {
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+  justify-content: center;
+
+
+}
+
+.project {
+  width: 30%;
+  text-align: center;
+  height: 300px;
+  background-color: #c2c2d6;
+  margin: 5px;
+
+}
+
+
+.pic {
+  width: 100%;
+  height: 225px;
+}
+
+#test_cont {
+  margin-top: 40px;
+  height: 300px;
+  background-color: #c2c2d6;
+}
+
+#con_cont {
+  margin_top: 40px;
+  height: 300px;
+  background-color: #c2c2d6;
+}
+
+#about_cont {
+  margin-top: 40px;
+  height: 300px;
+  background-color: #c2c2d6;
+}
