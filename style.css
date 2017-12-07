@@ -111,8 +111,8 @@ h3 {
 }
 
 #con_cont {
-  margin_top: 40px;
-  height: 300px;
+  margin-top: 40px;
+  height: auto;
   background-color: #c2c2d6;
 }
 
